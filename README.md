@@ -1,18 +1,10 @@
-Hello, I’m Godswill Ezihe
+### Hi, I'm Godswill Ezihe
 
-A frontend engineer based in Nigeria. I'm interested in ui engineering, web3, art, computer graphics, math, and algorithms.
+A Frontend Engineer interested in UI Engineering, Web3/Blockchain technology, Art, Computer graphics, Finance, and Algorithms.
 
-Currently, I'm learning the solidity programming language and how to build blockchain applications with decent - possibly fantastic user experience.
+Currently, learning how to build 3d web experiences using Three.js.
 
+<br/>
 
-My Stack:
-- Typescript
-- React/NextJS
-- Wagmi
-- Viem
-- Connectkit
-- Solidity
-
-
-[Twitter](https://x.com/gzkdev), [Personal Website](https://blackbyte-web.vercel.app), [LinkedIn](https://linkedin.com/in/godswill-ezihe)
-<!-- [Codepen](https://codepen.io/gzkdev) <br/> -->
+Get in touch:<br/>
+[Twitter](https://x.com/ezihegodswill), [LinkedIn](https://linkedin.com/in/godswill-ezihe)
