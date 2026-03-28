@@ -1,4 +1,4 @@
-Hi, I'm Godswill Ezihe,
+Hi, I'm Godswill Ezihe
 
 Frontend Engineer interested in UI Engineering, DeFi, AI and Distributed Systems.
 
