@@ -1,5 +1,5 @@
-Hi, I'm Godswill Ezihe
+Godswill Ezihe
 
-Frontend Engineer interested in DeFi, AI, Algorithms and Shaders.
+Software Engineer interested in DeFi, AI, Algorithms and UI Engineering.
 
-Say hi on [X/Twitter](https://x.com/ezihegodswill) or [LinkedIn](https://linkedin.com/in/godswill-ezihe)
+Reach out to me on [X/Twitter](https://x.com/ezihegodswill) or [LinkedIn](https://linkedin.com/in/godswill-ezihe)
